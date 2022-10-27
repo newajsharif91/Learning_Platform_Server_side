@@ -1,15 +1,15 @@
 [
     {
         "id": 1,
-        "name": "3D",
-        "title": "Complete Blender Creator: Learn 3D Modelling for Beginners",
+        "name": "Python Courses",
+        "title": "Learn Python: The Complete Python Programming Course",
         "ratings": "4.7",
         "students": "25,588 students",
-        "author": "Created by: Grant Abbit",
+        "author": "Created by:The Codex",
         "language": "English",
         "price": "$15",
-        "url": "https://i.ibb.co/txGqBXc/maxresdefault-1.jpg",
-        "details": "Use Blender to Create Beautiful 3D models for Video Games, 3D Printing & More. Beginners Level Course"
+        "url": "https://img-c.udemycdn.com/course/240x135/394676_ce3d_5.jpg",
+        "details": "Learn A-Z everything about Python, from the basics, to advanced topics like Python GUI, Python Data Analysis, and more!"
         
     },
     {
