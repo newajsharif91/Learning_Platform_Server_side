@@ -1,0 +1,76 @@
+[
+    {
+        "id": 1,
+        "name": "3D",
+        "title": "Complete Blender Creator: Learn 3D Modelling for Beginners",
+        "ratings": "4.7",
+        "students": "25,588 students",
+        "author": "Created by: Grant Abbit",
+        "language": "English",
+        "price": "$15",
+        "url": "https://i.ibb.co/txGqBXc/maxresdefault-1.jpg",
+        "details": "Use Blender to Create Beautiful 3D models for Video Games, 3D Printing & More. Beginners Level Course"
+        
+    },
+    {
+        "id": 2,
+        "name": "Create 3D Environment",
+        "title": "Blender Environment Artist: Create 3D Worlds",
+        "ratings": "4.8",
+        "students": "35,358 students",
+        "author": "Created by: John Smith",
+        "language": "English",
+        "price": "$20",
+        "url": "https://i.ibb.co/gj6JQYr/maxresdefault.jpg",
+        "details": "Learn Blender 3.1. Create 3D Assets For Video Games & Make Unique Environments"
+    },
+    {
+        "id": 3,
+        "name": "3D Character Create",
+        "title": "Blender Character Creator for Video Games Design",
+        "ratings": "4.4",
+        "students": "19,586 students",
+        "author": "Created by: Rick Davidson",
+        "language": "English",
+        "price": "$120",
+        "url": "https://i.ibb.co/FWrX4jV/d20gp7h-070c33d0-48c4-4cc2-8859-4a79907ef7f4.jpg",
+        "details": "Model Video Game Characters. Use The Sculpt Tool To Shape, Add Texture, Rig & Animate Video Game Characters"
+    },
+    {
+        "id": 4,
+        "name": "Blender Basic",
+        "title": "Blender 3D from zero to hero",
+        "ratings": "4.6",
+        "students": "36,877 students",
+        "author": "Created by: Widhi Muttaquien",
+        "language": "English",
+        "price": "$70",
+        "url": "https://i.ibb.co/qpMNtkJ/image-processing20220221-16914-1szryqs.jpg",
+        "details": "The complete guide to learn 3D using Blender from basic to advanced level"
+    },
+    {
+        "id": 5,
+        "name": "Cinema 4D",
+        "title": "Learn Vehicle Modeling and Rendering",
+        "ratings": "4.6",
+        "students": "12,027 students",
+        "author": "Created by: Mishel Gui",
+        "language": "English",
+        "price": "$150",
+        "url": "https://i.ibb.co/9ws6Gcb/automotive-modeling-cinema-4d-310-v1.jpg.jpg",
+        "details": "Learn how to model and render vehicles using Cinema 4D and V-Ray 5."
+    },
+    {
+        "id": 6,
+        "name": "Unreal Engine 5",
+        "title": "Unreal Engine 5 Blueprints - First Person Shooter (FPS)",
+        "ratings": "4.7",
+        "students": "4923 students",
+        "author": "Created by: Stephen Uibarri",
+        "language": "English",
+        "price": "$84.99",
+        "url": "https://i.ibb.co/Lx95yXq/halo-infinite-certain-affinity-fps-unreal-5.webp.jpg",
+        "details": "Learn how to make an FPS using Unreal Blueprints. The entire course uses Unreal Engine 5."
+    }
+
+]
