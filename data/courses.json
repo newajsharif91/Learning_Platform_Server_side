@@ -38,15 +38,15 @@
     },
     {
         "id": 4,
-        "name": "Blender Basic",
-        "title": "Blender 3D from zero to hero",
+        "name": "Python For Data Science",
+        "title": "Python for Data Science and Machine Learning Bootcamp",
         "ratings": "4.6",
         "students": "36,877 students",
-        "author": "Created by: Widhi Muttaquien",
+        "author": "Created by: Jhanker Mahbub",
         "language": "English",
         "price": "$70",
         "url": "https://i.ibb.co/qpMNtkJ/image-processing20220221-16914-1szryqs.jpg",
-        "details": "The complete guide to learn 3D using Blender from basic to advanced level"
+        "details": "Learn how to use NumPy, Pandas, Seaborn , Matplotlib , Plotly , Scikit-Learn , Machine Learning, Tensorflow , and more!"
     },
     {
         "id": 5,
