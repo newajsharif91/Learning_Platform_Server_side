@@ -7,22 +7,22 @@
         "students": "25,588 students",
         "author": "Created by:The Codex",
         "language": "English",
-        "price": "$15",
+        "price": "$155",
         "url": "https://img-c.udemycdn.com/course/240x135/394676_ce3d_5.jpg",
         "details": "Learn A-Z everything about Python, from the basics, to advanced topics like Python GUI, Python Data Analysis, and more!"
         
     },
     {
         "id": 2,
-        "name": "Create 3D Environment",
-        "title": "Blender Environment Artist: Create 3D Worlds",
-        "ratings": "4.8",
+        "name": "Build A Backend REST API",
+        "title": "Build a Backend REST API with Python & Django - Advanced",
+        "ratings": "4.9",
         "students": "35,358 students",
-        "author": "Created by: John Smith",
+        "author": "Created by: Newaj Sharif(Riyad)",
         "language": "English",
-        "price": "$20",
-        "url": "https://i.ibb.co/gj6JQYr/maxresdefault.jpg",
-        "details": "Learn Blender 3.1. Create 3D Assets For Video Games & Make Unique Environments"
+        "price": "$200",
+        "url": "https://img-c.udemycdn.com/course/240x135/2045310_f8a2_6.jpg",
+        "details": "Create an advanced REST API with Python, Django REST Framework and Docker using Test Driven Development (TDD)"
     },
     {
         "id": 3,
