@@ -45,20 +45,20 @@
         "author": "Created by: Jhanker Mahbub",
         "language": "English",
         "price": "$70",
-        "url": "https://i.ibb.co/qpMNtkJ/image-processing20220221-16914-1szryqs.jpg",
+        "url": "https://img-c.udemycdn.com/course/240x135/903744_8eb2.jpg",
         "details": "Learn how to use NumPy, Pandas, Seaborn , Matplotlib , Plotly , Scikit-Learn , Machine Learning, Tensorflow , and more!"
     },
     {
         "id": 5,
-        "name": "Cinema 4D",
-        "title": "Learn Vehicle Modeling and Rendering",
+        "name": "Django Multi Vendor Restaurant",
+        "title": "Django Multi Vendor Restaurant - The Real Django Experience",
         "ratings": "4.6",
         "students": "12,027 students",
-        "author": "Created by: Mishel Gui",
+        "author": "Created by: Mohesh Babu",
         "language": "English",
         "price": "$150",
-        "url": "https://i.ibb.co/9ws6Gcb/automotive-modeling-cinema-4d-310-v1.jpg.jpg",
-        "details": "Learn how to model and render vehicles using Cinema 4D and V-Ray 5."
+        "url": "https://img-c.udemycdn.com/course/240x135/4552020_43cc.jpg",
+        "details": "Python Django Multi-vendor Restaurant Marketplace website with location based search, nearby restaurants. Chec."
     },
     {
         "id": 6,
